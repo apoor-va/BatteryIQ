@@ -1,0 +1,8 @@
+# BatteryIQ Scientific Intelligence Service Dependencies
+# Target Python Version: 3.9+
+flask>=3.0.0
+waitress>=3.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+requests>=2.31.0
+
